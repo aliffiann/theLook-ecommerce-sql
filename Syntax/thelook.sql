@@ -94,7 +94,6 @@ GROUP BY 1
 ORDER BY 3 DESC;
 
 
-
 -- Brands Cancel & Return--
 SELECT 
   p.brand,
